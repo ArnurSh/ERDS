@@ -19,6 +19,7 @@ dependencies:
   firebase_auth: ^4.16.0
   cloud_firestore: ^4.12.2
   google_sign_in: ^6.2.1
+  lottie: ^1.4.0
 
 dev_dependencies:
   flutter_test:
@@ -40,4 +41,3 @@ flutter:
     - assets/soup.jpg
     - assets/spaghetti.jpg
     - assets/taco_salad.jpg
-
